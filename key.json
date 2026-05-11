@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "OWNER"
+    },
+    "SAIFUL": {
+      "hwid": "4AB92F230B9D90AA",
+      "expireDate": "2026-05-18",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "ADMIN"
     }
   }
 }
